@@ -1,7 +1,4 @@
-# 🐶 Razas de Perritos
-
-Este es un proyecto que consiste en un sitio web para mostrar información sobre diferentes razas de perros. Incluye tanto el código frontend como el backend, así como los archivos necesarios para la base de datos MySQL.
-
+# DELUX TATTOO
 ## Contenido
 
 El repositorio está organizado en las siguientes carpetas:
@@ -24,22 +21,18 @@ Para utilizar este proyecto, sigue estos pasos:
 
 A continuación se muestran algunas imágenes que ilustran cómo se ve la página:
 
-- **Inicio:**
-![image](https://github.com/NicolasAlGamez/PawAnimalVet/assets/168389432/09c8624a-5791-450a-a7fb-b09f42e17c6f)
+![image](https://github.com/Tsanthanma/Delux-Tattoo/assets/166979805/532721c3-20da-4301-b94d-9fa98cbd52e4)
+![image](https://github.com/Tsanthanma/Delux-Tattoo/assets/166979805/acfcde8c-04ef-4e72-9ad2-790df0f4d6c3)
 
-- **Agendamiento:**
- ![image](https://github.com/NicolasAlGamez/PawAnimalVet/assets/168389432/18eb4ab8-f4f1-44f9-8678-b6782b033d8f)
+**Movil**
+![image](https://github.com/Tsanthanma/Delux-Tattoo/assets/166979805/22ba00f2-c219-4018-85e9-ca1ee0f3af92)
+![image](https://github.com/Tsanthanma/Delux-Tattoo/assets/166979805/fef579c1-b72d-4b38-9398-9af9d4443a58)
 
-- **Razas:**
-![image](https://github.com/NicolasAlGamez/PawAnimalVet/assets/168389432/f59a4f32-c44a-4cdb-a2b8-2af732f1b662)
-
-- **Footer:**
-![image](https://github.com/NicolasAlGamez/PawAnimalVet/assets/168389432/4bbb6500-4b47-44be-b55a-dd295753f965)
+**Menu**
+![image](https://github.com/Tsanthanma/Delux-Tattoo/assets/166979805/e97e0aa5-1536-4db7-b7ae-c3f13cce3206)
 
 
-## Creadores
-
-- Nicolás Santiago Álvarez Gámez
-- Andrés Santiago García Chavez
+## Creador
+- Andrés Santiago Garcia Chaves
 
 
